@@ -1,0 +1,20 @@
+{
+	"name": "expand_lib_for_dcjs",
+	"version": "0.0.0-dev2",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"type": "module",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "tsc"
+	},
+	"dependencies": {
+		"@types/node": "^22.10.5",
+		"chalk": "^5.4.1",
+		"child_process": "^1.0.2",
+		"discord.js": "^14.17.2",
+		"typescript": "^5.7.2"
+	}
+}

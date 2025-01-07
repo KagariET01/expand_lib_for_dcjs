@@ -1,0 +1,10 @@
+{
+	"bot_have_no_token":"Your bot client has no token, please set the token first.",
+	"bot_not_start_up":"Your bot client did not load the bot data, please login it first.\np.s. try to use this function after the bot is ready.",
+	"missing_param":"Missing parameter: ",
+	"SlashCommand":{
+		"to_many_layers":"DC only allow 1 layer of subcommand group under top-level command, and 1 layer of subcommand under top-level command or subcommand group.",
+		"no_options_under_non_command":"You can't add any option under a non-command type option like ",
+		"Group_under_command":"You can't add a subcommand group under a command."
+	}
+}
